@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rafaelh3r\\source\\repos\\crud-aspnet-core\\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\\Aula1\\Aula1\\MyAPI\\MyAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafaelh3r\\source\\repos\\crud-aspnet-core\\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\\Aula1\\Aula1\\MyAPI\\MyAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafaelh3r\\source\\repos\\crud-aspnet-core\\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\\Aula1\\Aula1\\MyAPI\\MyAPI.csproj",
+        "projectName": "MyAPI",
+        "projectPath": "C:\\Users\\Rafaelh3r\\source\\repos\\crud-aspnet-core\\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\\Aula1\\Aula1\\MyAPI\\MyAPI.csproj",
+        "packagesPath": "C:\\Users\\Rafaelh3r\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafaelh3r\\source\\repos\\crud-aspnet-core\\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\\Aula1\\Aula1\\MyAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafaelh3r\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

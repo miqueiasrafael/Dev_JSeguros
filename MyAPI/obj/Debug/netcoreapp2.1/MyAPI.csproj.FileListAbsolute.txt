@@ -1,0 +1,13 @@
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.RazorAssemblyInfo.cache
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.RazorAssemblyInfo.cs
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.AssemblyInfoInputs.cache
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.AssemblyInfo.cs
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\bin\Debug\netcoreapp2.1\MyAPI.deps.json
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\bin\Debug\netcoreapp2.1\MyAPI.runtimeconfig.json
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\bin\Debug\netcoreapp2.1\MyAPI.runtimeconfig.dev.json
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\bin\Debug\netcoreapp2.1\MyAPI.dll
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\bin\Debug\netcoreapp2.1\MyAPI.pdb
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.dll
+C:\Users\Rafaelh3r\source\repos\crud-aspnet-core\CRUD-com-ASP.NET-core-Visual-Studio-2017-Parte-2\Aula1\Aula1\MyAPI\obj\Debug\netcoreapp2.1\MyAPI.pdb

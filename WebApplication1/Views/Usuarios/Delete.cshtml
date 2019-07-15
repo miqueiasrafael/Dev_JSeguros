@@ -1,0 +1,60 @@
+﻿@model WebApplication1.Models.Entidades.Usuario
+
+@{
+    ViewData["Title"] = "Deletar Usuário";
+}
+
+    <h2>Deletar Usuário</h2>
+
+<h3>Deseja realmente excluír esse registro?</h3>
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NomeUsuario)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomeUsuario)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+        <dd>
+            @*@Html.DisplayFor(model => model.Tipo)*@
+
+            @if (Model.Tipo == 1)
+            {
+                <label>Administrador</label>
+            }
+            else
+                if (Model.Tipo == 2)
+            {
+                <label>Técnico</label>
+            }
+            else
+                if (Model.Tipo == 3)
+            {
+                <label>Usuário Normal</label>
+            }
+
+            </dd>
+        </dl>
+
+        <form asp-action="Delete">
+            <input type="submit" value="Deletar" class="btn btn-danger" /> |
+            <a asp-action="Index"> <button class="btn btn-default text-dark">Voltar</button> </a>
+        </form>
+    </div>
